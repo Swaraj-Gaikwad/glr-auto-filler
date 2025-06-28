@@ -1,0 +1,10 @@
+# Ignore virtual environments
+venv/
+.env
+
+# Ignore cache/output files
+__pycache__/
+*.pyc
+*.log
+task_3_output/
+*.mp4
